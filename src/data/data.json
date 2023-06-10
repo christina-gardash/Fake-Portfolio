@@ -5,7 +5,6 @@
         "stack": ["React", "React Hooks", "Git/GitHub", "Netlify", "HTML", "CSS"],
         "type": "Phone App",
         "pics": "https://www.thespruce.com/thmb/xCvrWqd7uMZrMTvS26NxIn0BpP0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1298358626-e6c0c1bb47624aa0b7b07f8bf238df11.jpg",
-        "design":"./images/PlantHangers",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
         "link": "https://unsplash.com/"
 
@@ -41,6 +40,7 @@
       "stack": ["HTML", "CSS", "Git/GitHub", "Netlify"],
       "type": "Web App",
       "pics": "https://images.unsplash.com/photo-1627907228175-2bf846a303b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
       "link": "https://unsplash.com/"
     },
     {

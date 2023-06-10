@@ -9,7 +9,7 @@ function Nav() {
       <ul>
         <Link to={"/"}><li>Main</li></Link>
         <Link to={"/projects"}><li>Portfolio</li></Link>
-        <Link to={"/about_me"}><li>About</li></Link>
+        <Link to={"/about"}><li>About</li></Link>
         <Link to={"/contact"}><li className='contactStyle'>Contact</li></Link>
       </ul>
     </div>
