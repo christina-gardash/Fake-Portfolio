@@ -154,12 +154,34 @@ article {
 } 
 
 .cardText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   width: 50%;
+  height: 100%;
+  gap: 20px;
 }
 
+.cardText h2 {
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.cardText button {
+  padding: 7px 15px;
+  border: none;
+  background-color:  rgb(120, 148, 133);
+  color: white;
+}
+
+/* .one_project_section {
+
+} */
+
 .one_project_section img {
-  display: inline-block;
+  display: flex;
   width: 200px;
-  height: 200px
+  height: 200px;
 }
 
